@@ -6,7 +6,7 @@ This repository is a practice project for learning how to set up a GitHub reposi
 
 ## Getting Started
 
-To get started, open this repository on GitHub and check the README, `.gitignore`, and `LICENSE` files.
+To get started open this repository on GitHub and check the README, "gitignore", and "LICENSE" files.
 
 ## Usage
 
